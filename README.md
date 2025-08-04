@@ -5,3 +5,7 @@ Given the complex topography of Hualien, we deployed sensors across various terr
 The competition provided 2024 data from 17 sites for model training, and the task was to predict power output at specified times and locations, with ranking based on prediction error.
 ### Result
 We achieved 96th place out of 944 teams, placing within the top 10% of all participants.
+### Credit
+1. 陳坤
+2. 翁正洋
+3. 林艷平
