@@ -6,6 +6,6 @@ The competition provided 2024 data from 17 sites for model training, and the tas
 ### Result
 We achieved 96th place out of 944 teams, placing within the top 10% of all participants.
 ### Credit
-1. 陳坤
-2. 翁正洋
+1. 翁正洋
+2. 陳坤
 3. 林艷平
